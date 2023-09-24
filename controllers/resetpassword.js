@@ -184,7 +184,7 @@ const updatepassword =  async (req, res) => {
                                     }
                                 </script>
                                 <h2>New Password is Successfully Updated</h2>
-                                <a href="http://127.0.0.1:5500/Login/login.html">Back to Login Page</a>
+                                <a href="http://52.206.219.160:3000/Login/login.html">Back to Login Page</a>
                             </html>`)
                 res.end();
                 });
